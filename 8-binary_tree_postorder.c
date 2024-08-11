@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * bianry_tree_postorder - opening of file
+ * binary_tree_postorder - opening of file
  * @tree: pointer to root of tree
  * @func: function to call data
  * Return: None (void)
